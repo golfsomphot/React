@@ -1,0 +1,15 @@
+.content{
+    color: #b53c3c;
+}
+ 
+.user{
+    width: 20%;
+    
+ }
+ .password{
+    width: 20%;
+ }
+ button{
+    width: 20%;
+    height: 4vh;
+ }
