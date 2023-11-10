@@ -9,8 +9,8 @@ const Cards = ({url,title,content}) => {
   <p className="card-text">
     {content}
   </p>
-  <a href="#" className="btn btn-primary">
-    Go somewhere
+  <a href="login" className="btn btn-primary">
+    Go somewheresde
   </a>
 </div>
   );
